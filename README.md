@@ -22,7 +22,7 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
-
+![alt text](exercise_1.png)
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
@@ -34,7 +34,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
-
+![alt text](exercise_2.png)
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
@@ -42,13 +42,13 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
-
+![alt text](exercise_3.png)
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
-
+![alt text](exercise_4.png)
 ## Exercise 5
 
 Draw the flowchart for the following:
@@ -65,3 +65,4 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![alt text](exercise_5.png)
